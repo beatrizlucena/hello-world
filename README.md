@@ -1,1 +1,3 @@
-# hello-world
+ hello-world
+ 
+ Estudando curso técnico em informática.
